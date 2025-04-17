@@ -1,0 +1,6 @@
+name: WhisperChain
+version: '1.0'
+main: me.threefour.whisperchain.WhisperChain
+api-version: '1.21'
+authors: [ Amineos ]
+description: End-to-End encrypted messaging for Minecraft
