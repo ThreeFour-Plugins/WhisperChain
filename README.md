@@ -6,9 +6,9 @@
 
 ### End-to-End Encrypted Messaging for Minecraft
 
-[![GitHub release](https://img.shields.io/github/v/release/Amineos/WhisperChain?style=flat-square)](https://github.com/Amineos/WhisperChain/releases)
-[![Build Status](https://img.shields.io/github/workflow/status/Amineos/WhisperChain/Build?style=flat-square)](https://github.com/Amineos/WhisperChain/actions)
-[![License](https://img.shields.io/github/license/Amineos/WhisperChain?style=flat-square)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/ThreeFour-Plugins/WhisperChain?style=flat-square)](https://github.com/ThreeFour-Plugins/WhisperChain/releases)
+[![Build Status](https://img.shields.io/github/workflow/status/ThreeFour-Plugins/WhisperChain/Build?style=flat-square)](https://github.com/ThreeFour-Plugins/WhisperChain/actions)
+[![License](https://img.shields.io/github/license/ThreeFour-Plugins/WhisperChain?style=flat-square)](LICENSE)
 [![Java](https://img.shields.io/badge/Java-21%2B-orange?style=flat-square)](https://adoptium.net/)
 [![Paper](https://img.shields.io/badge/Paper-1.21%2B-lightgrey?style=flat-square)](https://papermc.io/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=flat-square&logo=discord)](https://discord.gg/yourdiscord)
@@ -116,7 +116,7 @@ Having a longer conversation? All your messages will go directly to the last per
 
 ### Setup Instructions
 
-1. [Download the latest release](https://github.com/Amineos/WhisperChain/releases)
+1. [Download the latest release](https://github.com/ThreeFour-Plugins/WhisperChain/releases)
 2. Place the JAR file in your server's `plugins` folder
 3. Restart your server
 4. Start sending encrypted messages - no configuration needed!
@@ -184,7 +184,7 @@ Your message history is stored encrypted on the server, so you can see previous 
 Need help? We've got you covered:
 
 - [Detailed Usage Guide](docs/USAGE.md)
-- [GitHub Issues](https://github.com/Amineos/WhisperChain/issues)
+- [GitHub Issues](https://github.com/ThreeFour-Plugins/WhisperChain/issues)
 - [Discord Community](https://discord.gg/yourdiscord)
 
 ---
@@ -197,6 +197,6 @@ WhisperChain is open-source software licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-### Made with ❤️ by [Amineos](https://github.com/aminegames125)
+### Made with ❤️ by [ThreeFour-Plugins](https://github.com/aminegames125)
 
 </div> 
